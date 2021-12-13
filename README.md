@@ -4,7 +4,7 @@
 
 Сторінка дисципліни <https://pupenasan.github.io/rimit/>
 
-- [Лекції]()
+- [Лекції](lecture/README.md)
 - [Лабораторні роботи](lab/README.md)
 - Курсовий проект
 
