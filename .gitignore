@@ -1,4 +1,5 @@
 /source
-.ppt
-.pptx
-.pdf
+*.ppt
+*.pptx
+*.pdf
+*.docx
