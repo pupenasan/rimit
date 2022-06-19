@@ -6,7 +6,7 @@
 
 - [Лекції](lecture/README.md)
 - [Лабораторні роботи](lab/README.md)
-- Курсовий проект
+- [Курсовий проект](kursov/README.md)
 
 
 
