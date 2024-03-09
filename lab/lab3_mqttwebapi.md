@@ -59,7 +59,7 @@
   - в полі Port **80** (over WebSocket), 
 - [ ] Якщо **mqtt.eclipse.org**  не працює, на сторінці Вебсокет-клієнта в полі Host введіть:
   - [ ] **test.mosquitto.org**
-  - [ ] в полі Port **8080** (over WebSocket), 
+  - [ ] в полі Port **8081** (over WebSocket), 
 - [ ] після чого натисніть кнопку Connect. Повинен з’явитися напис Connected.
 - [ ] Натисніть `Add New Topic Subscription` і в полі `Topic` задайте  
 
